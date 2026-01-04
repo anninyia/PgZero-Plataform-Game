@@ -1,4 +1,4 @@
-# PgZero Platform Game
+# PgZero Platformer
 
 ## 📌 Descrição do Projeto
 
